@@ -8,4 +8,6 @@
 4a. git config --global credential.helper osxkeychain(run this on terminal)
 5. for windows: git config --global credential.helper wincred (also install git for windows)
 
+6. use personal token from developer settings in github, instead of your actual password
+
 https://help.github.com/articles/caching-your-github-password-in-git/#platform-windows
